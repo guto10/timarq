@@ -1,7 +1,4 @@
 import streamlit as st
 
-st.image("banner.jpg", use_column_width=True)
-st.title("Meu App")
-
 st.title("Base de conhecimento TIMARQ")
 st.write("Olá, mundo!")
